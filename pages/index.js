@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Test" />
+        <Header title="Welcome to Ananke Global" />
         <p className="description">
-          Test
+           The Future of Gaming
         </p>
       </main>
 
